@@ -1,0 +1,39 @@
+[I 16:14:51.470 LabApp] JupyterLab extension loaded from /anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 16:14:51.470 LabApp] JupyterLab application directory is /anaconda3/share/jupyter/lab
+[W 16:14:51.472 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 16:14:51.474 LabApp] JupyterLab extension loaded from /anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 16:14:51.474 LabApp] JupyterLab application directory is /anaconda3/share/jupyter/lab
+[I 16:14:51.478 LabApp] Serving notebooks from local directory: /Users/danielparraverde/Documents/RUG Semester/ArtificialInteligence/Assignment1/Assignment
+[I 16:14:51.479 LabApp] 0 active kernels
+[I 16:14:51.479 LabApp] The Jupyter Notebook is running at:
+[I 16:14:51.479 LabApp] http://localhost:8888/?token=67d86344bb5b9cb78e8d824c9a3fedc2d75c6af978b6dc3c
+[I 16:14:51.479 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:14:51.480 LabApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=67d86344bb5b9cb78e8d824c9a3fedc2d75c6af978b6dc3c&token=67d86344bb5b9cb78e8d824c9a3fedc2d75c6af978b6dc3c
+[I 16:14:51.921 LabApp] Accepting one-time-token-authenticated connection from ::1
+[W 16:14:53.173 LabApp] Could not determine jupyterlab build status without nodejs
+[W 16:14:53.404 LabApp] 404 GET /api/contents/Assignment?1556633693395 (::1): No such file or directory: Assignment
+[W 16:14:53.404 LabApp] No such file or directory: Assignment
+[W 16:14:53.405 LabApp] 404 GET /api/contents/Assignment?1556633693395 (::1) 4.05ms referer=http://localhost:8888/lab
+[W 16:14:53.407 LabApp] 404 GET /api/contents/Assignment/Greedy.ipynb?content=0&1556633693398 (::1): No such file or directory: Assignment/Greedy.ipynb
+[W 16:14:53.408 LabApp] No such file or directory: Assignment/Greedy.ipynb
+[W 16:14:53.410 LabApp] 404 GET /api/contents/Assignment/Greedy.ipynb?content=0&1556633693398 (::1) 3.34ms referer=http://localhost:8888/lab
+[W 16:14:53.412 LabApp] 404 GET /api/contents/Assignment/state.py?content=0&1556633693401 (::1): No such file or directory: Assignment/state.py
+[W 16:14:53.413 LabApp] No such file or directory: Assignment/state.py
+[W 16:14:53.417 LabApp] 404 GET /api/contents/Assignment/state.py?content=0&1556633693401 (::1) 7.04ms referer=http://localhost:8888/lab
+[I 16:15:12.674 LabApp] Kernel started: 1b2488f3-511c-4c90-a009-9b8905c4b01d
+[I 16:15:13.459 LabApp] Adapting to protocol v5.1 for kernel 1b2488f3-511c-4c90-a009-9b8905c4b01d
+[I 16:15:13.459 LabApp] Adapting to protocol v5.1 for kernel 1b2488f3-511c-4c90-a009-9b8905c4b01d
+[I 16:15:13.460 LabApp] Adapting to protocol v5.1 for kernel 1b2488f3-511c-4c90-a009-9b8905c4b01d
+[I 16:15:26.164 LabApp] interrupted
+Serving notebooks from local directory: /Users/danielparraverde/Documents/RUG Semester/ArtificialInteligence/Assignment1/Assignment
+1 active kernel
+The Jupyter Notebook is running at:
+http://localhost:8888/?token=67d86344bb5b9cb78e8d824c9a3fedc2d75c6af978b6dc3c
+Shutdown this notebook server (y/[n])? [C 16:15:27.635 LabApp] received signal 2, stopping
+[I 16:15:27.638 LabApp] Shutting down 1 kernel
+[C 16:15:27.818 LabApp] received signal 2, stopping
+[I 16:15:27.847 LabApp] Kernel shutdown: 1b2488f3-511c-4c90-a009-9b8905c4b01d
